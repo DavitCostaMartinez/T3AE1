@@ -1,3 +1,7 @@
 Costa
 hola
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> 891fb1ba5941253f541c7e11b8227826c80b3ac0
